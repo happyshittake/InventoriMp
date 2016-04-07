@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InventoriMp.iml" filepath="$PROJECT_DIR$/.idea/modules/InventoriMp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InventoriMp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InventoriMp_main.iml" group="InventoriMp" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InventoriMp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InventoriMp_test.iml" group="InventoriMp" />
+      <module fileurl="file://$PROJECT_DIR$/InventoriMp.iml" filepath="$PROJECT_DIR$/InventoriMp.iml" />
     </modules>
   </component>
 </project>
